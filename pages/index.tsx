@@ -1,5 +1,6 @@
 import type { NextPage } from 'next';
 import Head from 'next/head';
+import Image from 'next/image';
 import 'tailwindcss/tailwind.css';
 
 const Home: NextPage = () => {
@@ -8,10 +9,6 @@ const Home: NextPage = () => {
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Monoton&display=swap"
-          rel="stylesheet"
-        />
       </Head>
 
       <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
@@ -75,7 +72,7 @@ const Home: NextPage = () => {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className="h-4 ml-2" />
+          <Image src="/vercel.svg" alt="Vercel Logo" className="h-4 ml-2" />
         </a>
       </footer>
     </div>
