@@ -10,12 +10,14 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
-        <h1 className="text-6xl font-monoton text-yellow">LuckySeven</h1>
+      <main className="flex flex-col items-center justify-center w-full flex-1 px-10 text-center">
+        <h1 className="text-4xl lg:text-6xl font-monoton text-yellow">
+          LuckySeven
+        </h1>
 
         <p className="mt-3 text-2xl">
-          We help your Web3{' '}
-          <code className="p-3 font-mono text-lg bg-gray-100 rounded-md text-black">
+          We help you with your Web3{' '}
+          <code className="p-3 font-mono text-sm bg-gray-100 rounded-md text-black">
             go-to-market
           </code>
         </p>
