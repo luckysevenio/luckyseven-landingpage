@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b3abde8-f7ed-443c-9b21-82537fffa084" name="Changes" comment="feat: netlify toml deleted">
+    <list default="true" id="8b3abde8-f7ed-443c-9b21-82537fffa084" name="Changes" comment="feat: netlify toml updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,9 +89,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.lint" />
-        <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638992703281</updated>
-      <workItem from="1638992706189" duration="3325000" />
+      <workItem from="1638992706189" duration="4627000" />
     </task>
     <task id="LOCAL-00001" summary="feat: prettier integrated">
       <created>1638993025344</created>
@@ -132,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638995812225</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: netlify toml updated">
+      <created>1638996359119</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638996359119</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +162,8 @@
     <MESSAGE value="feat: tailwinds installed" />
     <MESSAGE value="feat: netlify toml" />
     <MESSAGE value="feat: netlify toml deleted" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: netlify toml deleted" />
+    <MESSAGE value="feat: netlify toml updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: netlify toml updated" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
